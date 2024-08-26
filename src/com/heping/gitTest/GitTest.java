@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master marge conflict test");
         System.out.println("hot-fix conflict test");
         System.out.println("push test");
+        System.out.println("push test2");
     }
 }
